@@ -1,0 +1,2 @@
+File2 is a small file  
+with simple text.
